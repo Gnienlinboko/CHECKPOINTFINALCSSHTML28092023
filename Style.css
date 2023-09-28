@@ -1,0 +1,68 @@
+.pagination {
+    padding-left: 600px;
+    margin: 90px;  
+}
+.container {
+    display: flex;
+    background-color: white;
+    width: 500px;
+    gap: 50px;
+    justify-content: center;
+}
+.p1 {
+    width: 200px;
+    height: 80;
+}
+
+.p2 {
+    width: 200px;
+    height: 80;
+}
+.patient {
+    padding: 80px;
+    width: 90;
+    height: 40;
+    background-color: rgb(37, 219, 177);
+    border-radius: 20px;
+}
+.Doctor{
+    padding: 80px;
+    width: 90;
+    height: 40;
+    background-color: rgb(50, 184, 247);
+    border-radius: 20px;
+}
+.clinic{
+    padding: 80px;
+    width: 90;
+    height: 40;
+    background-color: rgb(4, 42, 59);rgb(2, 43, 62);
+    font-family: white;
+    border-radius: 20px;
+  text-decoration-color: aliceblue;
+}
+.div>souslogo {
+    justify-content: center;
+    display: row;
+}
+.div>souslogo1 {
+    display: flew row;
+    display: row;
+    justify-content: center;
+}
+.header {
+    text-align: center;
+    justify-content: center;
+    padding: 80px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex row;
+}
+.capitale{
+    justify-content: center;
+}
+button {
+    background-color: rgb(72, 110, 249);
+    justify-content: center;
+    border-radius: 5px;
+}
